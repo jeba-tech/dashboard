@@ -1,3 +1,44 @@
+
+## Live site link: 
+https://foody-dashboard.netlify.app/
+
+### Project Documentation: Dashboard
+
+This project is a web-based dashboard designed to provide analytics for a restaurant. It includes visualizations and data tables to monitor key metrics such as revenue, order trends, customer ratings, and popular menu items.
+
+### Features:
+
+* Revenue Chart: Visual representation of revenue trends over time.
+* Order Time Donut Chart: Breakdown of order times using a donut chart.
+* Rating Chart: Display of customer ratings to track satisfaction levels.
+* Most Ordered Food Table: Tabular view showing the most popular menu items.
+* Order Chart: Graphical representation of order frequency.
+* Sidebar Navigation: Navigation panel for easy access to different sections.
+* Navbar Search: Search functionality integrated into the navigation bar.
+* Delicious Burger Notification: Notifications for special offers or updates related to "Delicious Burger".
+
+
+### Technologies Used:
+
+* Frontend: HTML, CSS, bootstrap 5, JavaScript, React.js, flexbox, 
+* Charting Libraries: react-chartjs-2 and chart.js for data visualization.
+* Context API for State Management, icon from font-awesome, images 
+
+## Instructions:
+
+### run the following command in command prompt: 
+step-1: git clone https://github.com/jeba-tech/dashboard.git \
+step-2: cd project_folder \
+step-3: npm install \
+step-4: npm start 
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
