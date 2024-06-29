@@ -1,0 +1,28 @@
+.chart-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+      height: 200px;
+    }
+    
+    .chart-item {
+      position: absolute;
+      transition: all 0.3s ease;
+      
+    }
+    
+    .chart-item:nth-child(1) {
+      top: 30px;
+      left: 40px;
+    }
+    
+    .chart-item:nth-child(2) {
+      top: 50px;
+      left: 125px;
+    }
+    
+    .chart-item:nth-child(3) {
+      top: 135px;
+      left:-5px;
+    }
